@@ -1,0 +1,25 @@
+{
+  "name": "@sanctumterra/logger",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "main": "dist/index.js",
+  "license": "MIT",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.9.3"
+  },
+  "contributors": [
+    {
+      "name": "SanctumTerra",
+      "email": "sanctumterraofficial@gmail.com",
+      "url": "https://github.com/SanctumTerra"
+    }
+  ]
+}
