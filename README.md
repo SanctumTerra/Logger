@@ -1,0 +1,1 @@
+Logger that is made to work with Minecraft Bedrock Color codes.
